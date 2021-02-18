@@ -32,4 +32,11 @@ Elephant seal
 Elk
 Fox
 Gaur
+Gazelle
+Gerbil
+Giant Panda
+Giraffe
+Goat
+Gorilla
+Guanaco
 
