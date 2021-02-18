@@ -39,4 +39,24 @@ Giraffe
 Goat
 Gorilla
 Guanaco
+Guinea fowl
+Guinea pig
+Hamster
+Hare
+Hedgehog
+Hippopotamus
+Horse
+Human
+Hyena
+Jackal
+Jaguar
+Koala
+Komodo dragon
+Kouprey
+Kudu
+Lemur
+Leopard
+Lion
+Llama
+
 
