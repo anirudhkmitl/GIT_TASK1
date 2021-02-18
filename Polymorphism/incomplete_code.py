@@ -29,7 +29,7 @@ class Train(Transportation) :
    def find_cost(self) :
       return self.station * 5
 
-class Walk(Transportation):
+class Taxi(Transportation):
    def __init__(self, start,end,distance):
       Transportation.__init__(self, start, end, distance)
 
